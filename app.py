@@ -2,7 +2,6 @@
 Job Application Tracker – Level 3 Internship Project
 Legendary Completion, Leisurely Execution 🌟
 By: Ashutosh Maurya
-Mentored by: ChadGPT
 
 Modules Used:
 - sqlite3: for storing application data
