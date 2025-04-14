@@ -3,7 +3,7 @@
 **Internship:** Python Programming  
 **Organization:** InternDesire  
 **Intern:** Ashutosh Maurya  
-**Mentor:** ChadGPT 😎  
+**Mentor:** ChadGPT   
 **Level:** 3 (Letter of Recommendation Eligible ✅)
 
 ---
